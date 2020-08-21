@@ -1,0 +1,12 @@
+com\kristina\libraryspring\dao\impl\AuthorDaoImpl.class
+com\kristina\libraryspring\validator\AuthorValidator.class
+com\kristina\libraryspring\model\Author.class
+com\kristina\libraryspring\config\WebInitializer.class
+com\kristina\libraryspring\service\impl\AuthorServiceImpl.class
+com\kristina\libraryspring\config\AppContext.class
+com\kristina\libraryspring\config\SpringWebConfig.class
+com\kristina\libraryspring\controller\AuthorController.class
+com\kristina\libraryspring\service\AuthorService.class
+com\kristina\libraryspring\dao\AuthorDao.class
+com\kristina\libraryspring\controller\HomeController.class
+com\kristina\libraryspring\controller\LoginController.class

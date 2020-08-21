@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence"-->
+<!--             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
+<!--             xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence-->
+<!--          http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd"-->
+<!--             version="2.1">-->
+
+<!--&lt;!&ndash;    <persistence-unit name="LibDB">&ndash;&gt;-->
+<!--&lt;!&ndash;        <properties>&ndash;&gt;-->
+<!--&lt;!&ndash;            <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/njt" />&ndash;&gt;-->
+<!--&lt;!&ndash;            <property name="javax.persistence.jdbc.user" value="root" />&ndash;&gt;-->
+<!--&lt;!&ndash;            <property name="javax.persistence.jdbc.password" value="" />&ndash;&gt;-->
+<!--&lt;!&ndash;            <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver" />&ndash;&gt;-->
+<!--&lt;!&ndash;            <property name="hibernate.show_sql" value="true" />&ndash;&gt;-->
+<!--&lt;!&ndash;            <property name="hibernate.format_sql" value="true" />&ndash;&gt;-->
+<!--&lt;!&ndash;        </properties>&ndash;&gt;-->
+<!--&lt;!&ndash;    </persistence-unit>&ndash;&gt;-->
+
+<!--</persistence>-->
